@@ -1,17 +1,16 @@
 # 7'16
 
-# Dakle, ovdje cemo sada malo stvoriti uvjete za primjenu pull.a i fetch-a taako da cemo editati i add-ati fajlove direktno na GH-repo copiji cime simuliramo promjene na GH-repou od strane druugih developera!
+# Dakle, ovdje cemo sada malo stvoriti uvjete za primjenu pull.a i fetch-a tako da cemo editati i add-ati fajlove direktno na GH-repo copiji cime simuliramo promjene na GH-repou od strane drugih developera!
 
-# editanje postojeceg index.html fajla i commitanje direktno na main
-# idemo na homescreen od repoa i vidimo da je isti bio promjenjen takoda se vidi taj najnoviji commit!
+# * editanje postojeceg index.html fajla i commitanje direktno na main
+# idemo na home-screen od repoa i vidimo da je isti bio promjenjen takoda se vidi taj najnoviji commit!
 
-# kreiranje novog fajla: instructions.txt sa nekim textom pa ga commitamo u main
+# * kreiranje novog fajla: instructions.txt sa nekim textom pa ga commitamo u main
 
 # nakon editanja i creiranja  novog fajla, sad je GH-dio repoa za 2 commita ispred lokalne copije. Lokalna kopija je nesvjesna dogadjanja i to treba syncati! To cemo raditi sa fetch ili pull komandama.
-
 # Fetch donosi promjene samo git-database tj .git commit infoe ali ne i u stvarne fajlove a Pull ce to i mergati promjene u nase lokalno nepromjenjene fajlove!!! Pri tome to merganje moze proci kao ala "fast-forward" ili ce morati ici manualno ako se pojavi konflikt!
 
-# idemo na lokalnu kopiju i sa
+# * idemo na lokalnu kopiju i sa
 # ? git status
 # zahvaljujuci tome sto radim na vsc nemam isti odziv kao gill-ov git-term. Moj je term kao dio vsc-ea svjestan promjena na origin-main a gillov nije.
 # iako sam pokusavao u obicni terminal dobijao sam isti odgovor - ipak sam na lx-u a ne na winu. Kako bih simulirao kopiram odgovor sa 07 fajla
@@ -20,7 +19,7 @@
 # ? Your branch is up to date with 'origin/main'.
 
 # ? nothing to commit, working tree clean
-# prvo idemo sa fetch-om koji nije destructive i nece nista mergati u nase lokalne fajlove!! Samo ce potegnuti commite! u .git db tako da ih tamo mozemo gledati i izvrsiti rucno merganje.
+# * prvo idemo sa fetch-om koji nije destructive i nece nista mergati u nase lokalne fajlove!! Samo ce potegnuti commite! u .git db tako da ih tamo mozemo gledati i izvrsiti rucno merganje.
 # ? git fetch
 # i nema nikakvog responsa u termu!! za razliku od gill-a koji je dobio gomilu odgovora ala:
 # ? remote: Counting objects: 6. done
@@ -29,7 +28,7 @@
 # ? Unpacking objects: 100% (6/6), done
 # ? From githun.com:gill-orange/fuzzy-spoon
 # ?      53179d8..0cd34fg master     -> origin/master
-# sad nakon ovog mozemo raditi manualni merge ili git pull sto gill i odradjuje i naglasava da je pull izveo fetch i merge. Idem i ja i
+# sad nakon ovog mozemo raditi manualni merge ili git pull sto gill i odradjuje i naglasava da je pull izveo fetch i merge. Idem i ja i..
 # ? antun@ub:~/aCod/gillianH$ git pull
 # ? Updating ca43049..4bacb97
 # ? Fast-forward
@@ -43,7 +42,8 @@
 # ? Your branch is up to date with 'origin/main'.
 
 # ? nothing to commit, working tree clean
-# sad idemo editati fajlove neovisno na remote (da simuliramo radove drugih developera) i krirati commit tamo kao i na lokalnoj kopiji uz lokalno commitanje!
+
+# * sad idemo editati fajlove neovisno na remote (da simuliramo radove drugih developera) i krirati commit tamo kao i na lokalnoj kopiji uz lokalno commitanje!
 # editamo na GH fajl "instructions.txt" i commitamo.
 # editamo lokalno index.html i stagamo i commitamo
 # ? git commit -m "index.html changed"
@@ -60,7 +60,7 @@
 # ? hint: 'git pull ...') before pushing again.
 # ? hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 # GH je odbio moj push jer je primjetio sukobe tj po 1 commit razlike te hint-a pull-anje prije push-anja kako bi smo lokalno razrijesili konflikt!
-# postupamo po savjetu i pull-amo kako bi dobili promjene koje su na GH i razrjesili ih ako se sukobljavajusa mojim. Naskon
+# postupamo po savjetu i pull-amo kako bi dobili promjene koje su na GH i razrjesili ih ako se sukobljavajusa mojim. Nakon
 # ? git pull
 # pojavio se editor sa zahtjevom da napisemo -m poruku za merganje i commitanje zbog toga sto je napravio automatski merge-lokalno jer je mogao, jer promjene i razlike koje smo izveli, unatoc postojanju ranih commita ipak nisu bile sukobljavajuce, na gh smo editali jedan a lokalno drugi fajl!
 # Ostavljamo ponudjenu opciju -m poruke i snimamo je!!! i izlazimo iz editora (nanoa) i dobijamo poruku

@@ -47,7 +47,7 @@
 
 # ? nothing added to commit but untracked files present (use "git add" to track)
 
-# idemo ih stagati sa:
+# * idemo ih stagati sa:
 # ? git add .
 # pa ponovo
 # ? git status
@@ -71,7 +71,7 @@
 # ?         new file:   index.html
 # ?         new file:   portofolio.html
 
-# idemo commit-ati sa
+# * idemo commit-ati sa
 # ? git commit -m "Added web.files"
 # ? [main ca43049] Added web-files
 # ?  14 files changed, 289 insertions(+)
@@ -96,7 +96,8 @@
 # ?   (use "git push" to publish your local commits)
 
 # ? nothing to commit, working tree clean
-# i idemo pushati bez daljnih komplikacija. Gill koristi k-du "git push origin master" a ja cu iako mi savjetuje samo "git push" ipak probati sa
+
+# * i idemo pushati bez daljnih komplikacija. Gill koristi k-du "git push origin master" a ja cu iako mi savjetuje samo "git push" ipak probati sa
 # ? git push origin main
 # i sve ok!
 # ? Enumerating objects: 21, done.
@@ -108,7 +109,8 @@
 # ? remote: Resolving deltas: 100% (4/4), done.
 # ? To github.com:AntunGHU/gillianH.git
 # ?    fa9cad3..ca43049  main -> main
-# ako sada statusam
+
+# * ako sada statusam
 # ? antun@ub:~/aCod/gillianH$ git status
 # ? On branch main
 # ? Your branch is up to date with 'origin/main'.

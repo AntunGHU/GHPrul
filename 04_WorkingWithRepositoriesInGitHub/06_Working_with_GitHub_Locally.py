@@ -1,8 +1,9 @@
 # 3'46
 
 # Slika sa WorkingArea, Staging Area, .git repo ili commit-area u GitHub-repo
+
 # Gill polazi od pretpostavke da smo repo orginalno kreirali na GH
-# Colne na PC je prvi korak rada locally: stvara se i master ali i remote-trackin branches ako ih je bilo na GH orginalu i definirati deafault active branch of the remote na localnom kopiju.
+# Clone: je prvi korak rada locally: stvara se i master ali i remote-trackin branches ako ih je bilo na GH orginalu i definira deafault active branch of the remote na localnom kopiju.
 # Dodavanje ili Edit fajlova na localnoj kopiji
 # Add komanda za stage-anje!
 # Kad smo zadovoljni s verzijama Commitamo!

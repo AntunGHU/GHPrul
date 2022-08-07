@@ -6,6 +6,7 @@
 # CHANGELOG fajl
 # SUPPORT.md fajl koji ukazuje na nacine pomoci projektu
 # CODE_OF_CONDUCT donosi pravila koja se moraju postivati kad se koristi projekt
+
 # Nisu svi obavezni za projekte.
 
 # Na kraju malo demonstracije md-jezika i ## hashtagova! Lako se konvertira u html. # h1, ## h2 itd puna sintaksa na https://daringfireball.net/projects/markdown/syntax

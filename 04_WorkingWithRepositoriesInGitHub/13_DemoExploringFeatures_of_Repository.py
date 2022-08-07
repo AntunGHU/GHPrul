@@ -1,6 +1,6 @@
 # 3'59
 
-# Topics: nalazi se sada u sklopu zupcanika polja "About"  s desne strane sa natpisom "Topics (separate with spaces)" dok je u gill-a bilo odmah u kartici Code pri vrhu! Svaki upis ima prijedloge! Gill je mogao Done a sad je "Save changes" Nakon toga svi izabrani topicsi su se pojavili pri vrhu polja About! Klik na bilo koje daje rezultate pretrage GH-ea po tom topicu!!
+# Topics: nalazi se sada u sklopu zupcanika polja "About"  s desne strane sa natpisom "Topics (separate with spaces)"! Svaki upis ima prijedloge! i "Save changes" Nakon toga svi izabrani topicsi su se pojavili pri vrhu polja About! Klik na bilo koje daje rezultate pretrage GH-ea po tom topicu!!
 
 # Issues: Kartica do Code: Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should create an issue.
 
@@ -26,7 +26,7 @@
 # Code scanning alerts • Needs setup
 # Automatically detect common vulnerability and coding errors
 
-# Insights: gill skipa a ja nalazim gomilu kategorija:
+# Insights: gomila kategorija:
 # Pulse
 # Contributors
 # Community
@@ -38,9 +38,8 @@
 # Network
 # Forks
 
-# Settings: Ima puno stavki. Neke krupnije:
+# Settings: # I ovo ce kasnije! Ima puno stavki. Neke krupnije:
 # Access
 # Code and automation
 # Security
 # Integrations
-# I ovo kasnije!
