@@ -6,13 +6,13 @@
 
 # 2.Nakon kreiranja u kartici code novog repoa pojavljuju se opcije:
 # --Quick setup (za quick setup lokalnog repoa koji ce biti povezan sa ovim kreiranim na GH-eu.) (Malo izmjenjena ovo je jedina opcija ostala u GH)
-# --"or create a new repo on the command line" oveopcije vise nema ali je jako instruktivna pa je prepisujem:
+# --"or create a new repo on the command line" ove opcije vise nema ali je jako instruktivna pa je prepisujem:
 # ?> echo "# firstrepo" >> README.md
 # ?> git init
 # ?> git add README.md
 # ?> git commit -m "first commit"
 # ?> git remote add origin https://github.com/gill-orange/firstrepo.git
-# ?> git push *u origin master
+# ?> git push -u origin master
 # --"or push an existing repository from the command line"
 # ?> git remote add origin https://github.com/gill-orange/firstrepo.git
 # ?> git push -u origin master
