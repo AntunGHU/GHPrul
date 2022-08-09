@@ -4,7 +4,7 @@
 # ?> git remote -v
 # ?origin  https://github.com/AntunGHU/GHPrul.git (fetch)
 # ?origin  https://github.com/AntunGHU/GHPrul.git (push)
-# nista nema lose u ovoj formi osim sto svako malo moramo ( u starom term obliku komunikacije sa GH) vrsiti upis vjerodajnica!
+# nista nema lose u ovoj formi osim sto svako malo moramo (u starom term obliku komunikacije sa GH) vrsiti upis vjerodajnica!
 
 # sad nas uvodi u kreiranje ssh-key-a kao buduceg nacina komunikacije.
 # kreiranje ssh-keya sa k-dom:

@@ -3,9 +3,10 @@
 # Dakle, ovdje cemo sada malo stvoriti uvjete za primjenu pull.a i fetch-a tako da cemo editati i add-ati fajlove direktno na GH-repo copiji cime simuliramo promjene na GH-repou od strane drugih developera!
 
 # * editanje postojeceg index.html fajla i commitanje direktno na main
-# idemo na home-screen od repoa i vidimo da je isti bio promjenjen takoda se vidi taj najnoviji commit!
+# idemo na home-screen od repoa i vidimo da je isti bio promjenjen tako da se vidi taj najnoviji commit!
 
 # * kreiranje novog fajla: instructions.txt sa nekim textom pa ga commitamo u main
+# nalazi se u root-u repoa
 
 # nakon editanja i creiranja  novog fajla, sad je GH-dio repoa za 2 commita ispred lokalne copije. Lokalna kopija je nesvjesna dogadjanja i to treba syncati! To cemo raditi sa fetch ili pull komandama.
 # Fetch donosi promjene samo git-database tj .git commit infoe ali ne i u stvarne fajlove a Pull ce to i mergati promjene u nase lokalno nepromjenjene fajlove!!! Pri tome to merganje moze proci kao ala "fast-forward" ili ce morati ici manualno ako se pojavi konflikt!
@@ -19,6 +20,7 @@
 # ? Your branch is up to date with 'origin/main'.
 
 # ? nothing to commit, working tree clean
+
 # * prvo idemo sa fetch-om koji nije destructive i nece nista mergati u nase lokalne fajlove!! Samo ce potegnuti commite! u .git db tako da ih tamo mozemo gledati i izvrsiti rucno merganje.
 # ? git fetch
 # i nema nikakvog responsa u termu!! za razliku od gill-a koji je dobio gomilu odgovora ala:

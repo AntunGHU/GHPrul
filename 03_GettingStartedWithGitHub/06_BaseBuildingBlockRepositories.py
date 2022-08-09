@@ -9,4 +9,4 @@
 # Repo public ili private
 # Repo je 4. area boravka naseg koda! na kojoj nekoliko korisnika pregledava promjene od strane clanova tima.
 # Imajuci ovaj remote place koda moguce je djeliti kod sa ostalima clanovima tima ili organizacije.
-# Kao centralno mjesto djeljenja GH podsjeca na tradicionalni centralizirani kod-manaagment-sistem.
+# Kao centralno mjesto djeljenja GH podsjeca na tradicionalni centralizirani kod-managment-sistem.
