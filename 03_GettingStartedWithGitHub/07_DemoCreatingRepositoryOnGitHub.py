@@ -2,7 +2,7 @@
 
 # Cilj: create repo na GH and link to our lokal repo
 
-# 1.Kreiranje repoa na GH koji mora biti unique unutar naseg acounta, readme fajl, gitignore (mogu se specificirati prema vrsti projekta fajlovi koje ce git ignorirati), github i generiranje licencev(apashe, gnu, Mit, itd) i Create
+# 1.Kreiranje repoa na GH koji mora biti unique unutar naseg acounta, README.md fajl, gitignore (mogu se specificirati prema vrsti projekta fajlovi koje ce git ignorirati), github i generiranje licence(apashe, gnu, Mit, itd) i Create
 
 # 2.Nakon kreiranja u kartici code novog repoa pojavljuju se opcije:
 # --Quick setup (za quick setup lokalnog repoa koji ce biti povezan sa ovim kreiranim na GH-eu.) (Malo izmjenjena ovo je jedina opcija ostala u GH)

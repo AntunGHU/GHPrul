@@ -1,6 +1,6 @@
 # 3'46
 
-# Slika sa WorkingArea, Staging Area, .git repo ili commit-area u GitHub-repo
+# Slika sa WorkingArea, StagingArea, .git repo ili commit-area u GitHub-repo
 
 # Gill polazi od pretpostavke da smo repo orginalno kreirali na GH
 # Clone: je prvi korak rada locally: stvara se i master ali i remote-trackin branches ako ih je bilo na GH orginalu i definira deafault active branch of the remote na localnom kopiju.

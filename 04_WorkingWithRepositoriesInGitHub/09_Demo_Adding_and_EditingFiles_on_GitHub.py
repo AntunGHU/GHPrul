@@ -1,6 +1,6 @@
 # 7'16
 
-# Dakle, ovdje cemo sada malo stvoriti uvjete za primjenu pull.a i fetch-a tako da cemo editati i add-ati fajlove direktno na GH-repo copiji cime simuliramo promjene na GH-repou od strane drugih developera!
+# Stvoriti cemo uvjete za primjenu pull-a i fetch-a tako da cemo editati i add-ati fajlove direktno na GH-repo copiji cime simuliramo promjene na GH-repou od strane drugih developera!
 
 # * editanje postojeceg index.html fajla i commitanje direktno na main
 # idemo na home-screen od repoa i vidimo da je isti bio promjenjen tako da se vidi taj najnoviji commit!

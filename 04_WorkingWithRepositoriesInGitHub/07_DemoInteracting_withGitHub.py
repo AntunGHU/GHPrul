@@ -89,7 +89,7 @@
 # ?  create mode 100644 contact.html
 # ?  create mode 100644 index.html
 # ?  create mode 100644 portofolio.html
-# akko sada status-am
+# ako sada status-am
 # ? antun@ub:~/aCod/gillianH$ git status
 # ? On branch main
 # ? Your branch is ahead of 'origin/main' by 1 commit.
