@@ -15,7 +15,7 @@
 # Olaksavaju suradnju sa ostalim developerima i razmatranje predlozenih promjena!
 
 # Insights:
-# Daje puno infoa a izmedju ostlih i promet po nasim repo-stranicama
+# Daje puno infoa a izmedju ostalih i promet po nasim repo-stranicama
 
 # Settings:
 # Za dodavanje jos nekih osobina-znacajki npr: colaborters, default branch itd

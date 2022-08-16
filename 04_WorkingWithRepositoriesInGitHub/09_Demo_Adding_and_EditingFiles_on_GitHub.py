@@ -13,8 +13,7 @@
 
 # * idemo na lokalnu kopiju i sa
 # ? git status
-# zahvaljujuci tome sto radim na vsc nemam isti odziv kao gill-ov git-term. Moj je term kao dio vsc-ea svjestan promjena na origin-main a gillov nije.
-# iako sam pokusavao u obicni terminal dobijao sam isti odgovor - ipak sam na lx-u a ne na winu. Kako bih simulirao kopiram odgovor sa 07 fajla
+# zahvaljujuci tome sto radim na vsc nemam isti odziv kao gill-ov git-term. Moj je term kao dio vsc-ea svjestan promjena na origin-main a gillov nije. Kako bih simulirao kopiram odgovor sa 07 fajla
 # ? antun@ub:~/aCod/gillianH$ git status
 # ? On branch main
 # ? Your branch is up to date with 'origin/main'.
@@ -45,7 +44,7 @@
 
 # ? nothing to commit, working tree clean
 
-# * sad idemo editati fajlove neovisno na remote (da simuliramo radove drugih developera) i krirati commit tamo kao i na lokalnoj kopiji uz lokalno commitanje!
+# * sad idemo editati fajlove na remote (da simuliramo radove drugih developera) i kreirati commit tamo kao i na lokalnoj kopiji uz lokalno commitanje!
 # editamo na GH fajl "instructions.txt" i commitamo.
 # editamo lokalno index.html i stagamo i commitamo
 # ? git commit -m "index.html changed"

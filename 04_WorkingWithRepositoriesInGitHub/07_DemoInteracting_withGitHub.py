@@ -3,7 +3,7 @@
 # Plan: Cloning repo, Making some changing, Publishing (push) na GH
 
 # * kreiranje klona:
-# idemo na code repoa i kopy link za ssh (a po volji moze i https)
+# idemo na code repoa i copy link za ssh (a po volji moze i https)
 # idermo na term lokalno (otvaram 2. kopiju vsc-ea i mapu aCod unutar koje clon treba biti ravnopravan sa ostalim repoima) i k-da
 # ? git clone git@github.com:AntunGHU/gillianH.git
 # doslo je do kloniranja uz popratne poruke
