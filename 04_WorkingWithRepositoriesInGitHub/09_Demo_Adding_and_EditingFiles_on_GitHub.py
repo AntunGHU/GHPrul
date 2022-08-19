@@ -37,7 +37,7 @@
 # ?  instructions.txt | 3 +++
 # ?  2 files changed, 5 insertions(+), 2 deletions(-)
 # ?  create mode 100644 instructions.txt
-# i posebno moram naglasiti radost das sam skuzio raznobojne + i - znakove pored fajlova. ++ pored index-a znacim da sam imao dva inserta a -- znaci da sam imao i dva brisanja. Dalje pored instructions +++ kaze da sam imao 3 linije insertovanja. Takodjer posebno naglasava da kreiran instructions.txt. Bitno je istaci da je automatsko merganje nastupilo za index-fajl zato sto je on bio needitiran od zajednickog zadnjeg komita pa se promjene napravljene vremenski iza kod jedne kopije smatraju kao glavne. Da sam editirao i lokalnu i remote kopiju poslije zajednickog commita merge bi se suocio sa dva naknadna commita (po jedan na remote i local) i to bi smatrao konfliktom!!!
+# i posebno moram naglasiti radost da sam skuzio raznobojne + i - znakove pored fajlova. ++ pored index-a znaci da sam imao dva inserta a -- znaci da sam imao i dva brisanja. Dalje pored instructions +++ kaze da sam imao 3 linije insertovanja. Takodjer posebno naglasava da je kreiran instructions.txt. Bitno je istaci da je automatsko merganje nastupilo za index-fajl zato sto je on bio needitiran od zajednickog zadnjeg komita pa se promjene napravljene vremenski iza kod jedne kopije smatraju kao glavne. Da sam editirao i lokalnu i remote kopiju poslije zajednickog commita merge bi se suocio sa dva naknadna commita (po jedan na remote i local) i to bi smatrao konfliktom!!!
 # ? antun@ub:~/aCod/gillianH$ git status
 # ? On branch main
 # ? Your branch is up to date with 'origin/main'.
@@ -61,7 +61,7 @@
 # ? hint: 'git pull ...') before pushing again.
 # ? hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 # GH je odbio moj push jer je primjetio sukobe tj po 1 commit razlike te hint-a pull-anje prije push-anja kako bi smo lokalno razrijesili konflikt!
-# postupamo po savjetu i pull-amo kako bi dobili promjene koje su na GH i razrjesili ih ako se sukobljavajusa mojim. Nakon
+# postupamo po savjetu i pull-amo kako bi dobili promjene koje su na GH i razrjesili ih ako se sukobljavaju sa mojim. Nakon
 # ? git pull
 # pojavio se editor sa zahtjevom da napisemo -m poruku za merganje i commitanje zbog toga sto je napravio automatski merge-lokalno jer je mogao, jer promjene i razlike koje smo izveli, unatoc postojanju ranih commita ipak nisu bile sukobljavajuce, na gh smo editali jedan a lokalno drugi fajl!
 # Ostavljamo ponudjenu opciju -m poruke i snimamo je!!! i izlazimo iz editora (nanoa) i dobijamo poruku
