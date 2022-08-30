@@ -8,7 +8,7 @@
 # ?> git config --global user.name "Antun Jerkovic"
 # ?> git config --global user.email "antun.jerkovic@gmail.com"
 # za vidjeti config parametre
-# ?> git config --edit --global
+# ?> git config --global --edit
 # za Winse ide u sysProperites/EnvironmentVariables/Path/Edit/Browse/to-->Notepad++
 # nakon toga koda "notepad++" otvara Notepad++
 # sada idemo definirati def-editor za git sa
