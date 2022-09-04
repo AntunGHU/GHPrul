@@ -4,4 +4,4 @@
 
 # Sad se za svaki pridruzeni issue vidi kome je pridruzen a milestone nema vise sve na nuli! nego 2 open! a sam klik na njega daje njemu pridruzene issues-e.
 
-# Ako neki isue rjesimo onda ga otvaramo klikajuci u okviru milestonea i zatvaramo na "close issue"( as completed, as not planned). Postotak kod milestone ide na 50, 1 open 1 closed
+# Ako neki isue rjesimo onda ga otvaramo klikajuci u okviru milestonea i zatvaramo na "close issue"(as completed, as not planned). Postotak kod milestone ide na 50, 1 open 1 closed

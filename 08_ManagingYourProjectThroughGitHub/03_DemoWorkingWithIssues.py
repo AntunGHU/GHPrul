@@ -1,13 +1,13 @@
 # 5'47
 
-# Creating an issue; Linking an issue with commit; Working withl abels
+# Creating an issue; Linking an issue with commit; Working with labels
 
 # U slucaju da nema Issues-taba (gotovo 0 vjerovatnost) isti se ukljucuje preko Settings/Features.
 
 # Gill pokazuje Issues za reallife project preko ASP.NET(Open, Closed) i vecina nicely labeled.
 
 # ? Filters is:issue is:open  Labels 9 Milestones 0 New issue
-# prikaz prvog reda taba issues, moze se i mjenjati filter
+# prikaz prvog reda taba issues, moze se mjenjati filter
 
 # kriranje New issue-a: klik NewIssue, pisanje naslova i sadrzaja issue-a pa "Submit new issue". Prije Submit-a mozemo koristiti opcije "Assignees" (kasnije), "Labels", "Projects", "Milestone", "Development"(N), "Helpful resources"
 

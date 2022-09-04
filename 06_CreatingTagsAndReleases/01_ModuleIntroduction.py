@@ -1,3 +1,3 @@
 # 0'53
 
-# Tags Releases localy and on GH
+# Tags ; Releases ; localy and on GH

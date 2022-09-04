@@ -4,7 +4,7 @@
 
 # Tab "Wiki" i "Create first page" posto je wiki kolekcija stranica
 
-# Uz stranicu mozemo i trebali bi dodati heading i footer
+# Uz stranicu mozemo i trebali bi dodati heading i footer (datum editanja)
 
 # Gill pravi novu stranicu, pa potom side bar koji postaje navigation bar. U novom se side-bar automatski formira od naslova stranica! Prilagodjeni treba pretvoriti tekst u linkove
 

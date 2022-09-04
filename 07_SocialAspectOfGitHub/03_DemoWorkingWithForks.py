@@ -4,7 +4,7 @@
 
 # Pojavljuje se "Create a new Fork" dijalog gdje mogu odrediti drugacije ime (defailtno ce biti isto), dali da forka samo master (def opcija). Na kraju klik na "Create Fork"
 
-# Fork se pojavljuje kao evicin repo "EvicaGHU/GHPrul_AntunGHU" sa napomenom odakle je forkan! U kartici Code imamop sve kao i normalni Repoi uz to sto je odmah ispod "This branch is up to date with AntunGHU/GHPrul:master" i na desnoj strani gumb za "Sync fork"
+# Fork se pojavljuje kao evicin repo "EvicaGHU/GHPrul_AntunGHU" sa napomenom odakle je forkan! U kartici Code imamo sve kao i normalni Repoi uz to sto je odmah ispod "This branch is up to date with AntunGHU/GHPrul:master" i na desnoj strani gumb za "Sync fork"
 
 # Naravno, sada sve sto inace radimo u komu sa local-pc mozemo i s njim: clone itd
 

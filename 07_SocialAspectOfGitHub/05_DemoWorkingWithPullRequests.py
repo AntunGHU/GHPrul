@@ -4,10 +4,10 @@
 
 # Klik na PRQ (tab pored Code), Klik "New Pull Request"(odmah ispod naslova "Compare changes" pojavljuje se kombinatorkika koju granu u koji repo koju granu - biramo base fork AntunGHU) ( dobijam obavjest da je Automatski merge moguc i Compare tool), Compare pa "Create pull request",
 
-# Pojavljuje se "Open a pull rew" gdje dajem ime i klik "Create PRQ" i to je to s te strane.
+# Pojavljuje se "Open a pull-req" gdje dajem ime i klik "Create PRQ" i to je to s te strane.
 
 # Sad je na orginalnom repou (AntunGHU) da vidi PRQ i dalje po tom radi: neko sugerira izmjene. Klikamo na ime predlozene izmjene
-# ?  Create readme.md #1
+# ? Create readme.md #1
 # ? Open
 # ? EvicaGHU wants to merge 2 commits into AntunGHU:master from EvicaGHU:master
 # i dobijamo pregled comita od EvicaGHU, filese editane

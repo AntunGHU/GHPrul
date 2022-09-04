@@ -16,11 +16,9 @@
 # ?    instalguide added predmarged commit added
 # izlazim sa
 # ? q
-
 # sa kdom
 # ? git tag
 # provjeravam postojanje tagova i kako nista nema na output-u nema tagova!
-
 # sa
 # ? git tag stable main
 # dodajem svom zadnjem commit-u label "stable" sto sa

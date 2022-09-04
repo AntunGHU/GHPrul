@@ -1,6 +1,6 @@
 # 3'11
 
-# README.md-fajl: za opis repoa, sta radi, kako user moze pomoci isl. GitHub ga registrira samo ako je na pravom mjestu tj u root-u repoa ili u mapi .github ili mapi docs. Tada ga GH renerira na landing page (openpage)
+# README.md-fajl: za opis repoa, sta radi, kako user moze pomoci isl. GitHub ga registrira samo ako je na pravom mjestu tj u root-u repoa ili u mapi .github ili mapi docs. Tada ga GH renderira na landing page (openpage)
 # LICENCE.md sadrzi opensource licence i sl
 # CONTRIBUTING & CONTRIBUTORS files sa suradnicima na projektu
 # CHANGELOG fajl

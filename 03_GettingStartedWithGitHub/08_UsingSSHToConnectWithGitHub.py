@@ -1,3 +1,7 @@
 # 1'22
 
-# komunikacija sa GH je moguca i sa ssh i to je prefered way of working zbog: 1. brze prijave (u https svako malo) 2. ssh-key-a koji se zakaci za nas GH account i omogucava expres prijavu!
+# ssh zbog: 1.brze prijave (u https svako malo) 2.ssh-key-a koji se zakaci za nas GH account i omogucava expres prijavu!
+
+# GPG: GPG is the Gnu Privacy Guard and it is an implementation of OpenPGP (Open Pretty Good Privacy). It is an encryption technique that was originally developed for use in e-mail exchanges that is now used in a number of different applications such as code signing for Linux code repositories and source code repositories like github. OpenPGP is a hybrid of the two-key cryptography approach where the message to be exchanged (called plaintext) is first compressed and then a session key is created as a one-time use secret key. The compressed plaintext is then encrypted with the session key. The session key is then encrypted with the destination’s public key and bundled with the encrypted message (called ciphertext). The destination can decrypt the session key with their private key then then decompress it to recover the original plaintext.
+
+# There are several different ways to create a GPG key. The easiest is with the “gpg” or “gpg2” commands available on many major operating systems. Many commercial encryption programs also include a way to generate a GPG key. You can then store the public version on a public key server so folks can start sending you encrypted files/message traffic. Only you will be able to decrypt it because only you have the associated private key.

@@ -8,8 +8,7 @@
 # * kreiranje novog fajla: instructions.txt sa nekim textom pa ga commitamo u main
 # nalazi se u root-u repoa
 
-# nakon editanja i creiranja  novog fajla, sad je GH-dio repoa za 2 commita ispred lokalne copije. Lokalna kopija je nesvjesna dogadjanja i to treba syncati! To cemo raditi sa fetch ili pull komandama.
-# Fetch donosi promjene samo git-database tj .git commit infoe ali ne i u stvarne fajlove a Pull ce to i mergati promjene u nase lokalno nepromjenjene fajlove!!! Pri tome to merganje moze proci kao ala "fast-forward" ili ce morati ici manualno ako se pojavi konflikt!
+# nakon editanja i creiranja  novog fajla, sad je GH-dio repoa za 2 commita ispred lokalne copije. Lokalna kopija je nesvjesna dogadjanja i to treba syncati! To cemo raditi sa fetch ili pull komandama. Fetch donosi promjene samo git-database tj .git commit infoe ali ne i u stvarne fajlove a Pull ce to i mergati promjene u nase lokalno nepromjenjene fajlove!!! Pri tome to merganje moze proci kao ala "fast-forward" ili ce morati ici manualno ako se pojavi konflikt!
 
 # * idemo na lokalnu kopiju i sa
 # ? git status
@@ -17,7 +16,6 @@
 # ? antun@ub:~/aCod/gillianH$ git status
 # ? On branch main
 # ? Your branch is up to date with 'origin/main'.
-
 # ? nothing to commit, working tree clean
 
 # * prvo idemo sa fetch-om koji nije destructive i nece nista mergati u nase lokalne fajlove!! Samo ce potegnuti commite! u .git db tako da ih tamo mozemo gledati i izvrsiti rucno merganje.
@@ -29,7 +27,7 @@
 # ? Unpacking objects: 100% (6/6), done
 # ? From githun.com:gill-orange/fuzzy-spoon
 # ?      53179d8..0cd34fg master     -> origin/master
-# sad nakon ovog mozemo raditi manualni merge ili git pull sto gill i odradjuje i naglasava da je pull izveo fetch i merge. Idem i ja i..
+# nakon ovog mozemo raditi manualni merge ili git pull sto gill i odradjuje i naglasava da je pull izveo fetch i merge. Idem i ja i..
 # ? antun@ub:~/aCod/gillianH$ git pull
 # ? Updating ca43049..4bacb97
 # ? Fast-forward
@@ -37,11 +35,10 @@
 # ?  instructions.txt | 3 +++
 # ?  2 files changed, 5 insertions(+), 2 deletions(-)
 # ?  create mode 100644 instructions.txt
-# i posebno moram naglasiti radost da sam skuzio raznobojne + i - znakove pored fajlova. ++ pored index-a znaci da sam imao dva inserta a -- znaci da sam imao i dva brisanja. Dalje pored instructions +++ kaze da sam imao 3 linije insertovanja. Takodjer posebno naglasava da je kreiran instructions.txt. Bitno je istaci da je automatsko merganje nastupilo za index-fajl zato sto je on bio needitiran od zajednickog zadnjeg komita pa se promjene napravljene vremenski iza kod jedne kopije smatraju kao glavne. Da sam editirao i lokalnu i remote kopiju poslije zajednickog commita merge bi se suocio sa dva naknadna commita (po jedan na remote i local) i to bi smatrao konfliktom!!!
+# skuzio raznobojne + i - znakove pored fajlova. ++ pored index-a znaci da sam imao dva inserta a -- znaci da sam imao i dva brisanja. Dalje pored instructions +++ kaze da sam imao 3 linije insertovanja. Takodjer posebno naglasava da je kreiran instructions.txt. Bitno je istaci da je automatsko merganje nastupilo za index-fajl zato sto je on bio needitiran od zajednickog zadnjeg komita pa se promjene napravljene vremenski iza kod jedne kopije smatraju kao glavne. Da sam editirao i lokalnu i remote kopiju poslije zajednickog commita merge bi se suocio sa dva naknadna commita (po jedan na remote i local) i to bi smatrao konfliktom!!!
 # ? antun@ub:~/aCod/gillianH$ git status
 # ? On branch main
 # ? Your branch is up to date with 'origin/main'.
-
 # ? nothing to commit, working tree clean
 
 # * sad idemo editati fajlove na remote (da simuliramo radove drugih developera) i kreirati commit tamo kao i na lokalnoj kopiji uz lokalno commitanje!

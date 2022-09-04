@@ -6,7 +6,7 @@
 # ne ukljucuje readme a ukljucuje .gitignore i licnce (MIT)
 # Create!
 
-# stvoren je nas repo sa fajlovima .gitignore i licence a pri dnu je napomena o vrijednosti readme fajla sa mogucnosti da ga jos uvjek dodam
+# stvoren je repo sa fajlovima .gitignore i licence a pri dnu napomena o vrijednosti readme fajla sa mogucnosti da ga jos uvjek dodam
 # ukazuje da se ime repoa nalazi na url-eu i da je s njim javno dostupan!
 # "About" gdje mogu editati Topics, Description itd master branches tags (gornji red) te commits sa id-om ispod desno dok je releases ispod About-a a ispod njega packages i languages
 # red sa add file i Code sa https ili ssh linkovima

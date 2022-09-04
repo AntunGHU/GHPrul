@@ -9,4 +9,4 @@
 
 # Nakon kreiranja sad mozemo (slicno organizaciji) dodavati members i repos timu. Pri kraju dodanog repoa mozemo postelati prava pristupa membersa (read ili write)
 
-# Kreiramo jos jedan team kome ce vec kreirani biti parent (to zanci sve ce moci sto i parent). Nakon kreiranja dodajemo mu njegov repo a to znaci da ce imati pristup svom repou ali i repou parenta!
+# Kreiramo jos jedan team kome ce vec kreirani biti parent (to znaci sve ce moci sto i parent). Nakon kreiranja dodajemo mu njegov repo a to znaci da ce imati pristup svom repou ali i repou parenta dok ce parent imati pristup samo svome!

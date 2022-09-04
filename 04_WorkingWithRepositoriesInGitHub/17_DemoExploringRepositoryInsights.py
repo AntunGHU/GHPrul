@@ -20,4 +20,4 @@
 
 # Forks: No one has forked this repository yet. Forks are a great way to contribute to a repository. After forking a repository, you can send the original author a pull request.
 
-# Za kraj nam je malo pokazao mvc insights koji su bili puni svega i svacega, i code frequency i forkoanja itd!
+# Za kraj nam je malo pokazao mvc insights koji su bili puni svega i svacega, i code frequency i forkanja itd!

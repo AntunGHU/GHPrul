@@ -1,6 +1,6 @@
 # 4'09
 
-# A guided tour: Prijava,  Review of my resent activities, Lista mojih repoa, Lista mojih timova( toga vise nema ali mogu ispod managati organizacije i creirati new organization)
+# A guided tour: Prijava,  Review of my resent activities, Lista mojih repoa, Lista mojih timova, organizacije
 
 # YourProfile: Overiview, Navigacijski dio uz Overview ima: Repos, Projects, Packages, Stars, Folowers..
 

@@ -4,4 +4,4 @@
 
 # Malo pomaze pocetnicima u radu s git-om
 
-# Slicni alati: Spurcetree, GitKraken, GitExtensions
+# Slicni alati: Sourcetree, GitKraken, GitExtensions
