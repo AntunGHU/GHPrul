@@ -1,6 +1,6 @@
 # 4'01
 
-# Issues u GH nisu samo negativnosti kao bugs. Tu su i work tasks, enchencements, id's, new features itd.
+# Issues u GH nisu samo negativnosti kao bugs. Tu su i work-tasks, enchencements, id's, new features itd.
 
 # Svaki repo ima issues tracker. Zatvaranje issua ne znaci gubitak infosa uz njega. Sve(open, closed) se prati, pise i pamti.
 

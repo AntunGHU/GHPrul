@@ -11,7 +11,7 @@
 
 # kriranje New issue-a: klik NewIssue, pisanje naslova i sadrzaja issue-a pa "Submit new issue". Prije Submit-a mozemo koristiti opcije "Assignees" (kasnije), "Labels", "Projects", "Milestone", "Development"(N), "Helpful resources"
 
-# Klik na "Labels" daje mi mogucnost kategoriziranja "Issue"-a sa def-labelsima (u bojama). Gill i ja biramo "bug-plavo" i "enhencement-svjplavo". Submit i kartica issue imaa broj.
+# Klik na "Labels" daje mi mogucnost kategoriziranja "Issue"-a sa def-labelsima (u bojama). Gill i ja biramo "bug-plavo" i "enhencement-svjplavo". Submit i kartica issue ima broj.
 
 # Klikanjem na nju sad se issuesi vide lijepo poredani i labelani. Klik na bilo kojeg daje dalje mogucnost edita ili dodavanja novog comment-a ili "Close" preko "close and comment". Gill dodaje comment i pisuci tekst "Fixed in #" provocira pojavu brojeva drugih issues-a i PRQ-ova (bira jedan br koji postaje link kojim mozemo ici do drugog issue ili PRQ)
 

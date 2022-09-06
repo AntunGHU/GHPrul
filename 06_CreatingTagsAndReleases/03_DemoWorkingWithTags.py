@@ -10,9 +10,7 @@
 # ?Merge: 0973a49 070aae7
 # ?Author: Antun <antun.jerkovic@gmail.com>
 # ?Date:   Tue Aug 30 18:44:07 2022 +0200
-# ?
 # ?    Merge pull request #3 from AntunGHU/add-install
-# ?
 # ?    instalguide added predmarged commit added
 # izlazim sa
 # ? q
@@ -42,7 +40,6 @@
 # ? |/
 # ? * 4bacb97 Create instructions.txt
 # ? :
-
 # zato idemo kreirati anotated tag s kom
 # ? git tag -a v0.1 -m "0.1 release" 94444f6
 # ponovna provjera sa git tag daje
@@ -62,8 +59,8 @@
 # ?  * [new tag]         v0.1 -> v0.1
 
 # na gh!!!
-# na gh po novom releases su prazni i ne kreiraju se automatski iz tagova (koa kod gill-a) ali postoji opcija kreiranja
-# kreiram i pratim gilla: brisanje taga i pokaz da to brisanje nije obrisalo lokalni istoimeni tag. njega mogu lokalno obrisati sa
+# na gh po novom releases su prazni i ne kreiraju se automatski iz tagova (kao kod gill-a) ali postoji opcija kreiranja
+# kreiram i pratim gilla: brisanje taga i pokaz da to brisanje nije obrisalo lokalni istoimeni tag, njega mogu lokalno obrisati sa
 # ? git tag -d "stable"
 # obrnuto, ako prvo brisemo lokalno sa
 # ? git tag -d "v0.2"
