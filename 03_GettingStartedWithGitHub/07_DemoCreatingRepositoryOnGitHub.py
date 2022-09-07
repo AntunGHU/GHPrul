@@ -5,7 +5,7 @@
 # 1.Kreiranje repoa na GH koji mora biti unique unutar naseg acounta, README.md fajl, gitignore, licence i Create
 
 # 2.Nakon kreiranja u kartici code novog repoa pojavljuju se opcije:
-# --Quick setup (za quick setup lokalnog repoa koji ce biti povezan sa ovim kreiranim na GH-eu.) (Malo izmjenjena ovo je jedina opcija ostala u GH)
+# --Quick setup (za quick setup lokalnog repoa koji ce biti povezan sa ovim kreiranim na GH-eu.) (jedina opcija ostala u GH)
 # --"or create a new repo on the command line" ove opcije vise nema ali je jako instruktivna pa je prepisujem:
 # ?> echo "# firstrepo" >> README.md
 # ?> git init
