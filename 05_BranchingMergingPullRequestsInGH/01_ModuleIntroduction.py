@@ -1,3 +1,3 @@
 # 1'38
 
-# Branchies, BranchesOnGH, PullRequestsGH
+# Branches, BranchesOnGH, PullRequestsGH

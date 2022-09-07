@@ -8,7 +8,7 @@
 
 # ComunityStandards: prikazuje koliko moj repo postiva standarde developerske zajednice u pogledu: description-a, README fajla, Code of Conduct, Contributing, License, Issue templates, Pull request templates
 
-# Traffic: koliko se ljudi loogalo na moj repo, koliko clonova itd
+# Traffic: koliko se ljudi logalo na moj repo, koliko clonova itd
 
 # Commits: ko i koliko i kada
 
