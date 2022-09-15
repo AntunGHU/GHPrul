@@ -6,7 +6,7 @@
 # * kreiranje novog fajla: instructions.txt sa nekim textom pa ga commitamo u main
 # nalazi se u root-u repoa
 
-# nakon editanja i creiranja  novog fajla, sad je GH-dio repoa za 2 commita ispred lokalne copije. Lokalna kopija je nesvjesna dogadjanja i to treba syncati! To cemo raditi sa fetch ili pull komandama. Fetch donosi promjene samo git-database tj .git commit infoe ali ne i u stvarne fajlove a Pull ce to i mergati promjene u nase lokalno nepromjenjene fajlove!!! Pri tome to merganje moze proci kao ala "fast-forward" ili ce morati ici manualno ako se pojavi konflikt!
+# nakon editanja i creiranja fajlova, sad je GH-dio repoa za 2 commita ispred lokalne copije. Lokalna kopija je nesvjesna dogadjanja i to treba syncati! To cemo raditi sa fetch ili pull komandama. Fetch donosi promjene samo git-database tj .git commit infoe ali ne i u stvarne fajlove a Pull ce to i mergati promjene u nase lokalno nepromjenjene fajlove!!! Pri tome to merganje moze proci kao ala "fast-forward" ili ce morati ici manualno ako se pojavi konflikt!
 
 # * idemo na lokalnu kopiju i sa
 # ? git status
@@ -18,7 +18,7 @@
 
 # * prvo idemo sa fetch-om koji nije destructive i nece nista mergati u nase lokalne fajlove!! Samo ce potegnuti commite! u .git db tako da ih tamo mozemo gledati i izvrsiti rucno merganje.
 # ? git fetch
-# i nema nikakvog responsa u termu!! za razliku od gill-a koji je dobio gomilu odgovora ala:
+# i nema nikakvog responsa u termu!! Vjerovatno radi automatski fetch. Gill je dobio gomilu odgovora ala:
 # ? remote: Counting objects: 6. done
 # ? remote: Compressing objects: 100% (6/6). done
 # ? remote: Total 6 (delta 3), reused 0 (delta 0), pack-reused 0
@@ -38,7 +38,6 @@
 # ? On branch main
 # ? Your branch is up to date with 'origin/main'.
 # ? nothing to commit, working tree clean
-
 # * sad idemo editati fajlove na remote (da simuliramo radove drugih developera) i kreirati commit tamo kao i na lokalnoj kopiji uz lokalno commitanje!
 # editamo na GH fajl "instructions.txt" i commitamo.
 # editamo lokalno index.html i stagamo i commitamo
@@ -55,7 +54,7 @@
 # ? hint: its remote counterpart. Integrate the remote changes (e.g.
 # ? hint: 'git pull ...') before pushing again.
 # ? hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-# GH je odbio moj push jer je primjetio sukobe tj po 1 commit razlike te hint-a pull-anje prije push-anja kako bi smo lokalno razrijesili konflikt!
+# GH je odbio moj push jer je primjetio po 1 commit razlike te hint-a pull-anje prije push-anja kako bi smo lokalno razrijesili konflikt!
 # postupamo po savjetu i pull-amo kako bi dobili promjene koje su na GH i razrjesili ih ako se sukobljavaju sa mojim. Nakon
 # ? git pull
 # pojavio se editor sa zahtjevom da napisemo -m poruku za merganje i commitanje zbog toga sto je napravio automatski merge-lokalno jer je mogao, jer promjene i razlike koje smo izveli, unatoc postojanju ranih commita ipak nisu bile sukobljavajuce, na gh smo editali jedan a lokalno drugi fajl!

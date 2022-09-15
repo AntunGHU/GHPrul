@@ -7,7 +7,7 @@
 # Kartica do Code: Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should create an issue.
 
 # PullRequest:
-# U sljedecem modulu opsirnije. Koriste ga drugi developeri kako bi razmatrali ili u konacnici ukljucili u projekt njihove izmjene
+# U sljedecem modulu opsirnije. Koriste ga drugi developeri kako bi smo ukljucili u projekt njihove prijedloge
 
 # Actions:
 # nova kartica koja nije kod gill-a. todo! "Get started with GitHub Actions. Build, test, and deploy your code. Make code reviews, branch management, and issue triaging work the way you want. Select a workflow to get started. Skip this and set up a workflow yourself "
@@ -44,8 +44,26 @@
 # Forks
 
 # Settings:
-# I ovo ce kasnije! Ima puno stavki. Neke krupnije:
 # Access
+#   Collaborators
+#   Moderation Options:
+#       Interaction limits
+#       Code review limits
 # Code and automation
+#   Branches
+#   Tags
+#   Actions:
+#       Generals
+#       Runners
+#   Webhooks
+#   Environments
+#   Pages
 # Security
+#   Code security and analyses
+#   Deploy leys
+#   Secrets:
+#       Actions
+#       Dependabot
 # Integrations
+#   GH Apps
+#   Email notifications
