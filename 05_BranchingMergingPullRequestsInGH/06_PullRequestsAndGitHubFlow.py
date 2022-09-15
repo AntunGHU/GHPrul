@@ -1,6 +1,6 @@
 # 3'29
 
-# Kreiranje pull-reqa je nacin da kazemo suradnicma da smo napravili promjene i dajemo ih na znanje i za diskusiju, pregled i komitanja
+# Kreiranje pull-reqa je nacin da kazemo suradnicma da smo napravili promjene i dajemo ih na diskusiju, pregled i komitanja
 
 # Kad se sve navedeno obavi pravimo merganje u base branch (obicno main-master)
 

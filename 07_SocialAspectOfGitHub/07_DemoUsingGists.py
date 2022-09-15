@@ -1,6 +1,6 @@
 # 3'56
 
-# Gill otvara gists page, novi se kreira klikom na + pokraj zvona (unread notifications) kad se otvara forma sa : Gist description, Polje za unos koda itd
+# Gill otvara gists page, novi se kreira klikom na + pokraj zvona kad se otvara forma sa : Gist description, Polje za unos koda itd
 
 # Ispod kod-polja imamo gumb "Add files" kojim mogu unijeti vise fajlova
 

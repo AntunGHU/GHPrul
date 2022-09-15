@@ -2,7 +2,7 @@
 
 # "Branch points to a snapshot in the history of your project" #* Tag points to an important point in history (npr V1.0)
 
-# types of tags: Lightweight (just pointer to a commit); Annotated (sadrzi poruku, email, date, checksum itd i generalno kad kreiramo tag kreiramo njega)
+# tags: Lightweight (just pointer to a commit); Annotated (sadrzi poruku, email, date, checksum itd i generalno kad kreiramo tag kreiramo njega)
 
 # Tag se moze dodati kasnije na postojeci commit, annotated sa
 

@@ -1,6 +1,6 @@
 # 3'29
 
-# Fork je kopija repoa na kojoj mozemo raditi bez utjecaja na orginal ali s kojim fork ostaje povezan tako ako dodje do promjena u orginalu nasa forkana kopija moze ih dobaviti
+# Fork je kopija repoa na kojoj mozemo raditi bez utjecaja na orginal ali s kojim fork ostaje povezan tako ako dodje do promjena u orginalu nasa forkana kopija moze ih dobaviti sa opcijom "sync..."
 
 # Obrnuto takodjer vazi: sve promjene u forku mozemo prebaciti u orginalni repo kroz otvaranje "pull-req-a"
 

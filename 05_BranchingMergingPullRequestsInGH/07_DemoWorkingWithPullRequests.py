@@ -4,7 +4,7 @@
 
 # Otvaranje pullreqa (klik na Code/Contribute-OpenPullReq ili PullRequests/New pull request(Unutar dijaloskog "Comparing Changes" nakon komparacije i pregleda klikamo na "Ceate pull req" nastaje "Open pull req")): Oba dovode do "Open pull req" dijaloskog. U njemu opet mogu pregledati razlike prije i poslije u Unified ili split-view-u!
 
-# U "Open pull req" mogu dodavati komente a s desne strane imamo: Reviewerse, Assigneese, Labelse, Projectse, Milestone, Development, Helpfull resources (sve kasnije)
+# U "Open pull req" mogu dodavati komente a s desne strane imamo: Review-erse, Assign-eese, Label-se, Projectse, Milestone, Development, Helpfull resources (sve kasnije)
 
 # Kad smo spremni klikamo na "Create pull req": pojavljuje se "installguide added"(instalguide added #3 Open AntunGHU wants to merge 1 commit into main from add-install) nakon cega sada mozemo u potpunosti reviewati. Ostali teammembers mogu ovdje davati commente a u kommitima i komite. U tabu "Files changed" mogu davati commente po svakoj liniji koda i "Start Review"
 
