@@ -5,4 +5,4 @@
 
 # wiki: long-living doc on how to use project. Mogu se raditi online ili offline (pa pushanje)
 
-# Dok "readme" fajl tipicno sadrzi an overview Wiki daje kompletniji info o projektu (moze sa md-sintaksom)
+# "readme" tipicno sadrzi an overview; Wiki daje kompletniji info o projektu (moze sa md-sintaksom)
